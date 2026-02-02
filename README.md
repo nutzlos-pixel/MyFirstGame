@@ -1,0 +1,1 @@
+In meiner ersten Spielentwicklung habe ich gelernt, wie man die Position des Charakters mit der GetAxis-Methode ändert, wie man Physik zum Charakter und umgebenden Objekten oder Feinden hinzufügt und wie man den If-Operator für verschiedene Bedingungen im Spiel einbaut.
